@@ -1,0 +1,23 @@
+* Usaremos una Base de datos nueva cada semana
+* 3 pruebas:
+    1.- Vale 35%, Fecha: entre 14/04 al 19/04
+        a.- Aplicar sql avanzado para generar consultas
+        b.- Funciones sql avanzadas
+        c.- Diseñar sentencias sql
+        d.- Integrar multiples tablas
+        e.- Aplicar clausulas condicionales y de agrupación
+    2.- Vale 30%, Fecha: entre 19/05 al 24/05
+        a.- Diseñar y ejecutar sentencias SQL
+        b.- Implementar restricciones de integridad y controlar el acceso a datos
+        c.- Mejorar el rendimiento de consultas SQL mediante índices y optimización
+        d.- Aplicar transacciones SQL
+        e.- Realizar copias de seguridad y recuperación de datos
+    3.- Vale 35%, Fecha: 
+        a.- Crear bloques PL/SQL anónimos que inserten datos
+        b.- Desarrollar bloques PL/SQL anónimos que actualicen registros
+        c.- Implementar bloques PL/SQL anónimos que eliminen datos  
+        d.- Utilizar bloques PL/SQL anónimos para generar consultas complejas que recuperen información
+            específica
+        e.- Aplicar excepciones en bloques PL/SQL anónimos para manejar errores
+
+EXAMEN TRANSVERAL: 07/07/2025 - 12/07/2025 (40% DEL PROMEDIO FINAL)
